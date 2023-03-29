@@ -13,8 +13,14 @@ untuk folder soal3 ikuti langkah berikut:
 
 2. Masuk ke direktori proyek dengan menjalankan perintah cd soal3
 
-3. Jalankan perintah npm install untuk menginstall dependensi proyek.
+3. Jalankan perintah dibawah ini untuk menginstall dependensi proyek.
+```bash
+npm install
+```
 
-4. Jalankan perintah npm run serve untuk menjalankan proyek.
+4. Kemudian jalankan perintah berikut untuk menjalankan proyek.
+```bash
+npm run serve
+```
 
 5. Buka browser dan akses url yang diberikan pada cmd untuk melihat proyek.
