@@ -3,7 +3,10 @@
 Sebelum menjalankan proyek ini, pastikan telah menginstall Node.js dan Vue CLI. 
 
 # Cara Menjalankan
-Clone repository ini dengan menjalankan perintah git clone https://github.com/mharitsah/Technical-Test_Ma-arij.git
+Clone repository ini dengan menjalankan perintah 
+```bash
+git clone https://github.com/mharitsah/Technical-Test_Ma-arij.git
+```
 
 untuk file soal1 dan soal2 dapat dijalankan menggunakan node atau melalui console browser
 
